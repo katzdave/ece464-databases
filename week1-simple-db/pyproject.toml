@@ -1,0 +1,9 @@
+[project]
+name = "simple-in-memory-db"
+version = "0.1.0"
+description = "A simple in-memory database system with decorator-based table definitions"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+example = "example:main"
