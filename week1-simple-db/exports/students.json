@@ -1,0 +1,31 @@
+{
+  "table": "student",
+  "records": [
+    {
+      "name": "Bob Smith",
+      "email": "bob@university.edu",
+      "gpa": 3.5,
+      "id": 2
+    },
+    {
+      "name": "Carol White",
+      "email": "carol@university.edu",
+      "gpa": 3.9,
+      "id": 3
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alice@university.edu",
+      "gpa": 4.0,
+      "id": 1
+    },
+    {
+      "name": "David Brown",
+      "email": "david@university.edu",
+      "gpa": 3.6,
+      "id": 4
+    }
+  ],
+  "count": 4,
+  "exported_at": "2026-01-22T20:38:31.656519"
+}
