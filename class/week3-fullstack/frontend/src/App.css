@@ -1,0 +1,94 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.app-header h1 {
+  margin: 0 0 10px 0;
+  font-size: 42px;
+  font-weight: 700;
+}
+
+.app-header p {
+  margin: 0;
+  font-size: 18px;
+  opacity: 0.95;
+}
+
+.app-nav {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px;
+  background: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.app-nav button {
+  padding: 12px 30px;
+  border: 2px solid #667eea;
+  background: white;
+  color: #667eea;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.app-nav button:hover {
+  background: #f0f0f0;
+}
+
+.app-nav button.active {
+  background: #667eea;
+  color: white;
+}
+
+.app-content {
+  flex: 1;
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 30px 20px;
+}
+
+.app-footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: auto;
+}
+
+.app-footer p {
+  margin: 0;
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  .app-header h1 {
+    font-size: 32px;
+  }
+
+  .app-header p {
+    font-size: 16px;
+  }
+
+  .app-nav {
+    flex-direction: column;
+  }
+
+  .app-nav button {
+    width: 100%;
+  }
+}
