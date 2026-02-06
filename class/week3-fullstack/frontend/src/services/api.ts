@@ -1,7 +1,9 @@
+import type { Animal, AnimalStats, AnimalFilters } from '../types';
+
 const API_BASE_URL = 'http://localhost:8888';
 
 class AnimalAPI {
-  async getAllAnimals(filters = {}) {
+  async getAllAnimals(filters: AnimalFilters = {}): Promise<Animal[]> {
     const params = new URLSearchParams();
     if (filters.animal_class) params.append('animal_class', filters.animal_class);
     if (filters.habitat) params.append('habitat', filters.habitat);
@@ -13,7 +15,7 @@ class AnimalAPI {
     return await response.json();
   }
 
-  async getAnimalById(id) {
+  async getAnimalById(id: number): Promise<Animal> {
     const response = await fetch(`${API_BASE_URL}/api/animals/${id}`);
     if (!response.ok) {
       if (response.status === 404) throw new Error('Animal not found');
@@ -22,13 +24,13 @@ class AnimalAPI {
     return await response.json();
   }
 
-  async searchAnimals(query) {
+  async searchAnimals(query: string): Promise<Animal[]> {
     const response = await fetch(`${API_BASE_URL}/api/animals/search?q=${encodeURIComponent(query)}`);
     if (!response.ok) throw new Error('Search failed');
     return await response.json();
   }
 
-  async getStats() {
+  async getStats(): Promise<AnimalStats> {
     const response = await fetch(`${API_BASE_URL}/api/stats`);
     if (!response.ok) throw new Error('Failed to fetch stats');
     return await response.json();

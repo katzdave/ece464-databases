@@ -1,19 +1,22 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import api from './services/api';
 import SearchBar from './components/SearchBar';
 import AnimalGrid from './components/AnimalGrid';
 import AnimalDetail from './components/AnimalDetail';
 import StatsPanel from './components/StatsPanel';
+import type { Animal, AnimalStats, AnimalFilters } from './types';
 import './App.css';
 
+type View = 'grid' | 'stats';
+
 function App() {
-  const [animals, setAnimals] = useState([]);
-  const [stats, setStats] = useState(null);
-  const [selectedAnimal, setSelectedAnimal] = useState(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
-  const [view, setView] = useState('grid'); // 'grid' or 'stats'
-  const [filters, setFilters] = useState({
+  const [animals, setAnimals] = useState<Animal[]>([]);
+  const [stats, setStats] = useState<AnimalStats | null>(null);
+  const [selectedAnimal, setSelectedAnimal] = useState<Animal | null>(null);
+  const [loading, setLoading] = useState<boolean>(true);
+  const [error, setError] = useState<string | null>(null);
+  const [view, setView] = useState<View>('grid');
+  const [filters, setFilters] = useState<AnimalFilters>({
     animal_class: '',
     habitat: '',
     species: ''
@@ -28,20 +31,20 @@ function App() {
     loadAnimals();
   }, [filters]);
 
-  const loadAnimals = async () => {
+  const loadAnimals = async (): Promise<void> => {
     try {
       setLoading(true);
       setError(null);
       const data = await api.getAllAnimals(filters);
       setAnimals(data);
     } catch (err) {
-      setError(err.message);
+      setError(err instanceof Error ? err.message : 'An error occurred');
     } finally {
       setLoading(false);
     }
   };
 
-  const loadStats = async () => {
+  const loadStats = async (): Promise<void> => {
     try {
       const data = await api.getStats();
       setStats(data);
@@ -50,28 +53,28 @@ function App() {
     }
   };
 
-  const handleSearch = async (query) => {
+  const handleSearch = async (query: string): Promise<void> => {
     try {
       setLoading(true);
       setError(null);
       const results = await api.searchAnimals(query);
       setAnimals(results);
     } catch (err) {
-      setError(err.message);
+      setError(err instanceof Error ? err.message : 'Search failed');
     } finally {
       setLoading(false);
     }
   };
 
-  const handleFilterChange = (newFilters) => {
+  const handleFilterChange = (newFilters: AnimalFilters): void => {
     setFilters(newFilters);
   };
 
-  const handleAnimalSelect = (animal) => {
+  const handleAnimalSelect = (animal: Animal): void => {
     setSelectedAnimal(animal);
   };
 
-  const handleCloseDetail = () => {
+  const handleCloseDetail = (): void => {
     setSelectedAnimal(null);
   };
 
