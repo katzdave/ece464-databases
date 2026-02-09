@@ -27,3 +27,6 @@ CREATE TABLE file_shares (
     shared_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     PRIMARY KEY (file_id, shared_with_user_id)
 );
+
+Interesting reference on linux filesystem:
+https://en.wikipedia.org/wiki/Inode
