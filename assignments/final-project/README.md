@@ -37,6 +37,7 @@ While I am flexible on your choice of tools, I highly recommend this high-veloci
 | **Language & Tooling** | Python (managed via **uv**) |
 | **API Framework** | **FastAPI** |
 | **ORM & Migrations** | **SQLAlchemy** & **Alembic** |
+| **Authentication** | **Supabase** |
 | **Database** | **PostgreSQL** (Hosted + auth via **Supabase**) |
 | **Frontend** | **React** + **TypeScript** (Built with **Vite**) |
 | **Hosting (Server)** | **Railway** |
