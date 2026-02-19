@@ -54,7 +54,7 @@ While I am flexible on your choice of tools, I highly recommend this high-veloci
 
 ### **Deliverables**
 1.  **The Live Link:** A URL to your deployed, functional web application.
-2.  **The Write-up:** A `README.md` in your repo detailing:
+2.  **The Write-up:** A formal writeup detailing:
     * **Project Goals:** What problem are you solving?
     * **Architecture:** A high-level view of your data flow.
     * **The "War Room" Log:** Detail 3+ significant bugs encountered and how you resolved them.
