@@ -1,0 +1,251 @@
+rank,title,year,rating,runtime,director,producers
+1,The Shawshank Redemption,1994,9.3,2h 22m,Frank Darabont,Liz Glotzer; David V. Lester; Niki Marvin
+2,The Godfather,1972,9.2,2h 55m,Francis Ford Coppola,Gray Frederickson; Albert S. Ruddy
+3,The Dark Knight,2008,9.1,2h 32m,Christopher Nolan,Kevin de la Noy; Jordan Goldberg; Philip Lee; Benjamin Melniker; Christopher Nolan; Lorne Orleans; Charles Roven; Emma Thomas; Thomas Tull; Michael E. Uslan
+4,The Godfather Part II,1974,9.0,3h 22m,Francis Ford Coppola,Francis Ford Coppola; Gray Frederickson; Fred Roos; Mona Skager
+5,12 Angry Men,1957,9.0,1h 36m,Sidney Lumet,Henry Fonda; George Justin; Reginald Rose
+6,The Lord of the Rings: The Return of the King,2003,9.0,3h 21m,Peter Jackson,Peter Jackson; Michael Lynne; Mark Ordesky; Barrie M. Osborne; Rick Porras; Jamie Selkirk; Robert Shaye; Fran Walsh; Bob Weinstein; Harvey Weinstein
+7,Schindler's List,1993,9.0,3h 15m,Steven Spielberg,Irving Glovin; Kathleen Kennedy; Branko Lustig; Gerald R. Molen; Robert Raymond; Lew Rywin; Steven Spielberg
+8,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,2h 58m,Peter Jackson,Peter Jackson; Michael Lynne; Mark Ordesky; Barrie M. Osborne; Rick Porras; Tim Sanders; Jamie Selkirk; Robert Shaye; Ellen Somers; Fran Walsh; Bob Weinstein; Harvey Weinstein
+9,Pulp Fiction,1994,8.8,2h 34m,Quentin Tarantino,Lawrence Bender; Danny DeVito; Richard N. Gladstein; Michael Shamberg; Stacey Sher; Bob Weinstein; Harvey Weinstein
+10,"The Good, the Bad and the Ugly",1966,8.8,2h 58m,Sergio Leone,
+11,The Lord of the Rings: The Two Towers,2002,8.8,2h 59m,Peter Jackson,Peter Jackson; Michael Lynne; Mark Ordesky; Barrie M. Osborne; Rick Porras; Jamie Selkirk; Robert Shaye; Fran Walsh; Bob Weinstein; Harvey Weinstein
+12,Forrest Gump,1994,8.8,2h 22m,Robert Zemeckis,Wendy Finerman; Charles Newirth; Steve Starkey; Steve Tisch
+13,Fight Club,1999,8.8,2h 19m,David Fincher,Ross Grayson Bell; Ceán Chaffin; John S. Dorsey; Art Linson; Arnon Milchan
+14,Inception,2010,8.8,2h 28m,Christopher Nolan,Zakaria Alaoui; John Bernard; Chris Brigham; Jordan Goldberg; Thomas Hayslip; Christopher Nolan; Kanjirô Sakura; Yoshikuni Taki; Emma Thomas; Thomas Tull
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,2h 4m,Irvin Kershner,Jim Bloom; Gary Kurtz; George Lucas; Rick McCallum; Robert Watts; Howard G. Kazanjian
+16,The Matrix,1999,8.7,2h 16m,Lana Wachowski; Lilly Wachowski,Bruce Berman; Dan Cracchiolo; Carol Hughes; Andrew Mason; Richard Mirisch; Barrie M. Osborne; Joel Silver; Erwin Stoff; Lana Wachowski; Lilly Wachowski
+17,GoodFellas,1990,8.7,2h 25m,Martin Scorsese,Barbara De Fina; Bruce S. Pustin; Irwin Winkler
+18,Interstellar,2014,8.7,2h 49m,Christopher Nolan,Kaari Autry; Jenny Basen; Jill Christensen; Stacey Douglas; Kim Goddard; Jordan Goldberg; Harrison Goldstein; Árni Björn Helgason; Jake Myers; Christopher Nolan; Lynda Obst; Graeme Puttock; Debbie Schwab; Inga Björk Sólnes; Emma Thomas; Gudlaug O. Thorisdottir; Kip Thorne; Thomas Tull; Stephanie Fraser; Brock Skretting
+19,One Flew Over the Cuckoo's Nest,1975,8.6,2h 13m,Milos Forman,Michael Douglas; Martin Fink; Saul Zaentz
+20,Seven,1995,8.6,2h 7m,David Fincher,Stephen Joel Brown; Phyllis Carlyle; William C. Gerrity; Nana Greenwald; Lynn Harris; Dan Kolsrud; Anne Kopelson; Arnold Kopelson; Gianni Nunnari; Sanford Panitch; Michele Platt; Richard Saperstein
+21,It's a Wonderful Life,1946,8.6,2h 10m,Frank Capra,
+22,The Silence of the Lambs,1991,8.6,1h 58m,Jonathan Demme,Grace Blake; Ron Bozman; Gary Goetzman; Edward Saxon; Kenneth Utt
+23,Seven Samurai,1954,8.6,3h 27m,Akira Kurosawa,
+24,Saving Private Ryan,1998,8.6,2h 49m,Steven Spielberg,Ian Bryce; Bonnie Curtis; Kevin de la Noy; Mark Gordon; Mark Huffam; Gary Levinsohn; Allison Lyon Segan; Steven Spielberg
+25,The Green Mile,1999,8.6,3h 9m,Frank Darabont,Frank Darabont; David Valdes
+26,City of God,2002,8.6,2h 10m,Kátia Lund; Fernando Meirelles,Andrea Barata Ribeiro; Marc Beauchamps; Bel Berlinck; Daniel Filho; Hank Levine; Vincent Maraval; Mauricio Andrade Ramos; Donald Ranvaud; Juliette Renaud; Walter Salles; Elisa Tolomelli
+27,Life Is Beautiful,1997,8.6,1h 56m,Roberto Benigni,Gianluigi Braschi; Mario Cotone; John M. Davis; Elda Ferri; Agnès Mentre; John Rogers
+28,Terminator 2: Judgment Day,1991,8.6,2h 17m,James Cameron,Stephanie Austin; James Cameron; Gale Anne Hurd; Mario Kassar; Van Ling; B.J. Rack
+29,Star Wars: Episode IV - A New Hope,1977,8.6,2h 1m,George Lucas,Gary Kurtz; George Lucas; Rick McCallum; James Nelson
+30,Back to the Future,1985,8.5,1h 56m,Robert Zemeckis,Neil Canton; Bob Gale; Kathleen Kennedy; Frank Marshall; Steven Spielberg
+31,Spirited Away,2001,8.6,2h 4m,Hayao Miyazaki,Hironori Aihara; Donald W. Ernst; Ryôichi Fukuyama; Kôji Hoshino; Lori Korngiebel; John Lasseter; Takeyoshi Matsushita; Yutaka Narita; Seiji Okuda; Toshio Suzuki; Yasuyoshi Tokuma; Banjirô Uemura; Seiichirô Ujiie
+32,The Pianist,2002,8.5,2h 30m,Roman Polanski,Robert Benmussa; Timothy Burrill; Daniel Champagnon; Gene Gutowski; Henning Molfenter; Roman Polanski; Lew Rywin; Alain Sarde; Rainer Schaper
+33,Gladiator,2000,8.5,2h 35m,Ridley Scott,David Franzoni; Branko Lustig; Laurie MacDonald; Terry Needham; Walter F. Parkes; Douglas Wick; Ridley Scott
+34,Parasite,2019,8.5,2h 12m,Bong Joon Ho,Min Heoi Heo; Bong Joon Ho; Miky Lee; Min Chul Park; Kwak Sin-ae; Moon Yang Kwon; Jang Young Hwan
+35,Grave of the Fireflies,1988,8.5,1h 28m,Isao Takahata,Joey Goubeaud; Tôru Hara; John Ledford; John O'Donnell; Ryôichi Satô; Stephanie Shalofsky; Eiichi Takahashi; Shin'ichirô Ueda
+36,Psycho,1960,8.5,1h 49m,Alfred Hitchcock,
+37,The Lion King,1994,8.5,1h 28m,Roger Allers; Rob Minkoff,Alice Dewey Goldstone; Don Hahn; Sarah McArthur; Thomas Schumacher; Jeffrey Katzenberg
+38,Harakiri,1962,8.6,2h 13m,Masaki Kobayashi,Tatsuo Hosoya; Gin'ichi Kishimoto; Makoto Naitô; Tsugio Saitô
+39,The Departed,2006,8.5,2h 31m,Martin Scorsese,Michael Aguilar; G. Mac Brown; Doug Davison; Brad Grey; Kristin Hahn; Graham King; Roy Lee; Gianni Nunnari; Brad Pitt; Joseph P. Reidy; Rick Schwartz; Emma Tillinger Koskoff; Dan Lin
+40,Whiplash,2014,8.5,1h 46m,Damien Chazelle,Jason Blum; Nicholas Britell; Phillip Dawe; Garrick Dion; Helen Estabrook; Mark David Katchur; David Lancaster; Michel Litvak; Sarah Potts; Jason Reitman; Couper Samuelson; Jeanette Volturno; Gary Michael Walters; Stephanie Wilcox
+41,Kill Bill: The Whole Bloody Affair,2004,8.8,4h 13m,Quentin Tarantino,Lawrence Bender; Erica Steinberg; E. Bennett Walsh; Bob Weinstein; Harvey Weinstein
+42,The Prestige,2006,8.5,2h 10m,Christopher Nolan,Christopher Ball; Valerie Dean; Jordan Goldberg; Christopher Nolan; Aaron Ryder; Charles J.D. Schlissel; Emma Thomas; William Tyrer
+43,American History X,1998,8.5,1h 59m,Tony Kaye,Bill Carraro; Michael De Luca; Jon Hess; David McKenna; John Morrissey; Kearie Peak; Steve Tisch; Lawrence Turman; Brian Witten
+44,Léon: The Professional,1994,8.5,1h 50m,Luc Besson,Claude Besson; John Garland; Bernard Grenet
+45,Spider-Man: Across the Spider-Verse,2023,8.5,2h 20m,Joaquim Dos Santos; Kemp Powers; Justin K. Thompson,Avi Arad; Brian Michael Bendis; Julie Groll; Christian Hejnal; Rebecca Karch; Phil Lord; Christopher Miller; Amy Pascal; Bob Persichetti; Peter Ramsey; Rodney Rothman; Alonzo Ruvalcaba; Aditya Sood; Christina Steinberg
+46,Cinema Paradiso,1988,8.5,2h 54m,Giuseppe Tornatore,Gabriella Carosio; Franco Cristaldi; Giovanna Romagnoli
+47,Casablanca,1942,8.5,1h 42m,Michael Curtiz,Hal B. Wallis; Jack L. Warner
+48,The Intouchables,2011,8.5,1h 52m,Olivier Nakache; Éric Toledano,Arnaud Bertrand; Dominique Boutonnat; Hubert Caillard; Nicolas Duval Adassovsky; Robin Noel; Laurent Sivot; Laurent Zeitoun; Yann Zenou
+49,The Usual Suspects,1995,8.5,1h 46m,Bryan Singer,Hans Brockmann; François Duplat; Art Horan; Robert Jones; Kenneth Kokin; Michael McDonnell; Bryan Singer
+50,Alien,1979,8.5,1h 57m,Ridley Scott,Gordon Carroll; David Giler; Walter Hill; Ivor Powell; Ronald Shusett
+51,Django Unchained,2012,8.5,2h 45m,Quentin Tarantino,William Paul Clark; Reginald Hudlin; Shannon McIntosh; Pilar Savone; Michael Shamberg; Stacey Sher; James W. Skotchdopole; Bob Weinstein; Harvey Weinstein
+52,Modern Times,1936,8.5,1h 27m,Charles Chaplin,
+53,Rear Window,1954,8.5,1h 52m,Alfred Hitchcock,
+54,Once Upon a Time in the West,1968,8.5,2h 25m,Sergio Leone,Bino Cicogna; Fulvio Morsella
+55,City Lights,1931,8.5,1h 27m,Charles Chaplin,
+56,Apocalypse Now,1979,8.4,2h 27m,Francis Ford Coppola,John Ashley; Kim Aubry; Francis Ford Coppola; Gray Frederickson; Shannon Lail; Eddie Romero; Fred Roos; Mona Skager; Tom Sternberg
+57,WALL·E,2008,8.4,1h 38m,Andrew Stanton,Lindsey Collins; John Lasseter; Gillian Libbert; Chris Montan; Jim Morris; Thomas Porter
+58,Memento,2000,8.4,1h 53m,Christopher Nolan,Christopher Ball; Elaine Dysinger; Aaron Ryder; Emma Thomas; Jennifer Todd; Suzanne Todd; William Tyrer
+59,Dune: Part Two,2024,8.4,2h 46m,Denis Villeneuve,Diala Al Raie; Trevor Bagge; Gergö Balika; Cale Boyter; Amanda Confavreux; Jessica Derhammer; Howard Ellis; Herbert W. Gains; Adam Goodman; James Grant; Joshua Grode; John Harrison; Toby Hefferman; Brian Herbert; Kim Herbert; Genevieve Hofmeyr; Fuad Khalil; Tanya Lapointe; Gianluca Leurini; Robbie McAree; Patrick McCormick; Byron Merritt; Tina Oswald; Mary Parent; Brice Parker; Richard P. Rubinstein; Jon Spaihts; Thomas Tull; Denis Villeneuve
+60,Raiders of the Lost Ark,1981,8.4,1h 55m,Steven Spielberg,Howard G. Kazanjian; George Lucas; Frank Marshall; Robert Watts
+61,Avengers: Infinity War,2018,8.4,2h 29m,Anthony Russo; Joe Russo,Victoria Alonso; Mitchell Bell; Ari Costa; Louis D'Esposito; Jon Favreau; Kevin Feige; Michael Grillo; James Gunn; Stan Lee; JoAnn Perritano; Edu Sallouti; Nicholas Simon; Trinh Tran; Jen Underdahl
+62,The Lives of Others,2006,8.4,2h 17m,Florian Henckel von Donnersmarck,Quirin Berg; Claudia Gladziejewski; Dirk Hamm; Florian Henckel von Donnersmarck; Monika Lobkowicz; Andreas Schreitmüller; Hubert von Spreti; Max Wiedemann
+63,Spider-Man: Into the Spider-Verse,2018,8.4,1h 57m,Bob Persichetti; Peter Ramsey; Rodney Rothman,Will Allegra; Avi Arad; Brian Michael Bendis; Theresa Bentz; Christian Hejnal; Stan Lee; Phil Lord; Christopher Miller; Amy Pascal; Christina Steinberg
+64,Sunset Boulevard,1950,8.4,1h 50m,Billy Wilder,
+65,Witness for the Prosecution,1957,8.4,1h 56m,Billy Wilder,Arthur Hornblow Jr.; Edward Small
+66,Paths of Glory,1957,8.4,1h 28m,Stanley Kubrick,James B. Harris; Kirk Douglas; Stanley Kubrick
+67,The Shining,1980,8.4,2h 26m,Stanley Kubrick,Robert Fryer; Jan Harlan; Mary Lea Johnson; Stanley Kubrick; Martin Richards
+68,The Great Dictator,1940,8.4,2h 5m,Charles Chaplin,Charles Chaplin; Carter DeHaven
+69,Inglourious Basterds,2009,8.4,2h 33m,Quentin Tarantino,Lawrence Bender; William Paul Clark; Christoph Fisser; Henning Molfenter; Bruce Moriarty; Lloyd Phillips; Pilar Savone; Erica Steinberg; Bob Weinstein; Harvey Weinstein; Charlie Woebcken
+70,12th Fail,2023,8.7,2h 27m,Vidhu Vinod Chopra,Pratik Basu; Vidhu Vinod Chopra; Lawrence D'Souza; Abhishek Dubey; Atul Vinod Duggal; Rajesh Radheylal Gupta; Yogesh Ishwar; Anuja Singh
+71,Aliens,1986,8.4,2h 17m,James Cameron,Gordon Carroll; David Giler; Walter Hill; Gale Anne Hurd
+72,High and Low,1963,8.4,2h 23m,Akira Kurosawa,Ryûzô Kikushima; Akira Kurosawa; Tomoyuki Tanaka
+73,Good Will Hunting,1997,8.4,2h 6m,Gus Van Sant,Su Armstrong; Lawrence Bender; Jonathan Gordon; Chris Moore; Scott Mosier; Kevin Smith; Bob Weinstein; Harvey Weinstein
+74,Avengers: Endgame,2019,8.4,3h 1m,Anthony Russo; Joe Russo,Victoria Alonso; Mitchell Bell; Ari Costa; Louis D'Esposito; Jon Favreau; Kevin Feige; Michael Grillo; James Gunn; Stan Lee; Christopher Markus; Stephen McFeely; JoAnn Perritano; Edu Sallouti; Nicholas Simon; Trinh Tran; Jen Underdahl
+75,The Dark Knight Rises,2012,8.4,2h 44m,Christopher Nolan,Kevin de la Noy; Jordan Goldberg; Benjamin Melniker; Christopher Nolan; Charles Roven; Dileep Singh Rathore; Emma Thomas; Thomas Tull; Michael E. Uslan
+76,Coco,2017,8.4,1h 45m,Adrian Molina; Lee Unkrich,Darla K. Anderson; Mary Alice Drumm; John Lasseter
+77,Amadeus,1984,8.4,2h 40m,Milos Forman,Michael Hausman; Bertil Ohlsson; Saul Zaentz
+78,Toy Story,1995,8.3,1h 21m,John Lasseter,Bonnie Arnold; Ed Catmull; Ralph Guggenheim; Steve Jobs
+79,Your Name.,2016,8.4,1h 46m,Makoto Shinkai,Yoshihiro Furusawa; Tatsuro Hatanaka; Minami Ichikawa; Shin'ichirô Inoue; Kôichirô Itô; Noritaka Kawaguchi; Genki Kawamura; Yukari Kiso; Kenji Ôta; Yûichi Sakai; Katsuhiro Takei; Masanori Yumiya; Junji Zenki
+80,Das Boot,1981,8.3,2h 29m,Wolfgang Petersen,Michael Bittins; Mark Damon; Ortwin Freyermuth; John W. Hyde; Edward R. Pressman; Günter Rohrbach
+81,Oldboy,2003,8.3,2h,Park Chan-wook,Kim Dong-joo; Jae-Duk Han; Dong-ju Kim; Syd Lim
+82,Braveheart,1995,8.3,2h 58m,Mel Gibson,Bruce Davey; Mel Gibson; Alan Ladd Jr.; Dean Lopata; Stephen McEveety; Elizabeth Robinson
+83,Princess Mononoke,1997,8.3,2h 13m,Hayao Miyazaki,Scott Martin; Yutaka Narita; Seiji Okuda; Toshio Suzuki; Diana Tauder; Yasuyoshi Tokuma; Seiichirô Ujiie; Bob Weinstein; Harvey Weinstein; Takahiro Yonezawa
+84,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,1h 35m,Stanley Kubrick,Stanley Kubrick; Victor Lyndon; Lee Minoff
+85,3 Idiots,2009,8.4,2h 50m,Rajkumar Hirani,Deepak Bhagra; Vidhu Vinod Chopra; Vir Chopra; Anil Davda; Sanjiv Kishinchandani; Ravi Sarin; Manu Sud
+86,Project Hail Mary,2026,8.5,2h 36m,Phil Lord; Christopher Miller,Nikki Baida; Sarah Esberg; Drew Goddard; Ryan Gosling; Barrie Hemsley; Ross Jensen; Ken Kao; Lucy Kitada; Phil Lord; Christopher Miller; Rachel O'Connor; Amy Pascal; Aditya Sood; Andy Weir; Patricia Whitcher; J Wheeler White
+87,American Beauty,1999,8.3,2h 2m,Sam Mendes,Alan Ball; Bruce Cohen; Dan Jinks; Stan Wlodkowski
+88,Capernaum,2018,8.4,2h 6m,Nadine Labaki,Candice Abela-Mikati; Ray Barakat; Joslyn Barnes; Assaad Debs; Chrystel Elias; Danny Glover; Marianne Katra; Antoine Khalife; Jason Kliot; Chady Eli Mattar; Kateryna Merkt; Michel Merkt; Fouad Mikati; Khaled Mouzanar; Ayla Rizk; Samer Rizk; Susan Rockefeller; Akram Safa; Georges Sarraf; Pierre Sarraf; Wissam Smayra; Sylvio Sharif Tabet; Anne-Dominique Toussaint; Joana Vicente
+89,Singin' in the Rain,1952,8.3,1h 43m,Stanley Donen; Gene Kelly,Arthur Freed; Roger Edens
+90,Joker,2019,8.3,2h 2m,Todd Phillips,Richard Baratta; Bruce Berman; Jason Cloth; Bradley Cooper; Joseph Garner; Aaron L. Gilbert; Walter Hamada; Anjay Nagpal; Todd Phillips; Emma Tillinger Koskoff; Michael E. Uslan; David Webb
+91,Once Upon a Time in America,1984,8.3,3h 49m,Sergio Leone,Claudio Mancini; Arnon Milchan
+92,Come and See,1985,8.3,2h 22m,Elem Klimov,Karen Shakhnazarov; Stepan Tereshchenko
+93,Star Wars: Episode VI - Return of the Jedi,1983,8.3,2h 11m,Richard Marquand,Jim Bloom; Howard G. Kazanjian; George Lucas; Rick McCallum; Robert Watts
+94,Requiem for a Dream,2000,8.3,1h 42m,Darren Aronofsky,Ben Barenholtz; Beau Flynn; Scott Franklin; Ann Ruark; Stefan Simchowitz; Randy Simon; Jonah Smith; M. Scott Vogel; Eric Watson; Nick Wechsler; Palmer West
+95,Toy Story 3,2010,8.3,1h 43m,Lee Unkrich,Darla K. Anderson; John Lasseter; Nicole Paradis Grindle
+96,Ikiru,1952,8.3,2h 23m,Akira Kurosawa,
+97,The Hunt,2012,8.3,1h 55m,Thomas Vinterberg,Jessica Ask; Karen Bentzon; Madeleine Ekman; Sidsel Hybschmann; Sisse Graum Jørgensen; Morten Kaufmann; Elin Lennartsson; Charlotte Pedersen; Martin Persson
+98,Incendies,2010,8.3,2h 11m,Denis Villeneuve,Luc Déry; Anthony Doncque; Phoebe Greenberg; Penny Mancuso; Kim McCraw; Miléna Poylo; Gilles Sacuto; Ziad Touma; Stephen Traynor; Sylvie Trudelle
+99,Eternal Sunshine of the Spotless Mind,2004,8.3,1h 48m,Michel Gondry,Georges Bermann; Anthony Bregman; David Bushell; Steve Golin; Linda Fields Hill; Michael Jackman; Charlie Kaufman; Glenn Williamson
+100,The Apartment,1960,8.3,2h 5m,Billy Wilder,I.A.L. Diamond; Doane Harrison; Billy Wilder
+101,Lawrence of Arabia,1962,8.3,3h 47m,David Lean,Sam Spiegel; David Lean
+102,Heat,1995,8.3,2h 50m,Michael Mann,Pieter Jan Brugge; Gusmano Cesaretti; Art Linson; Michael Mann; Arnon Milchan; Kathleen M. Shea
+103,2001: A Space Odyssey,1968,8.3,2h 29m,Stanley Kubrick,Stanley Kubrick; Victor Lyndon
+104,Scarface,1983,8.3,2h 50m,Brian De Palma,Martin Bregman; Peter Saphier; Louis A. Stroller
+105,Reservoir Dogs,1992,8.3,1h 39m,Quentin Tarantino,Lawrence Bender; Richard N. Gladstein; Monte Hellman; Harvey Keitel; Ronna B. Wallace
+106,Up,2009,8.3,1h 36m,Pete Docter; Bob Peterson,John Lasseter; Kori Rae; Denise Ream; Jonas Rivera; Andrew Stanton
+107,Double Indemnity,1944,8.3,1h 47m,Billy Wilder,Buddy G. DeSylva; Joseph Sistrom
+108,North by Northwest,1959,8.3,2h 16m,Alfred Hitchcock,Herbert Coleman; Alfred Hitchcock
+109,Like Stars on Earth,2007,8.3,2h 42m,Aamir Khan,Ajay Bijli; Sanjeev K. Bijli; Aamir Khan; Sunitha Ram; B. Shrinivas Rao; Kiran Rao; Manoj Shroff
+110,Full Metal Jacket,1987,8.2,1h 56m,Stanley Kubrick,Jan Harlan; Michael Herr; Philip Hobbs; Stanley Kubrick
+111,M,1931,8.3,1h 39m,Fritz Lang,
+112,Amélie,2001,8.3,2h 2m,Jean-Pierre Jeunet,Helmut Breuer; Bastie Griese; Arne Meerkamp van Embden; Claudie Ossard
+113,Citizen Kane,1941,8.2,1h 59m,Orson Welles,Orson Welles; George Schaefer
+114,Vertigo,1958,8.2,2h 8m,Alfred Hitchcock,Herbert Coleman; Alfred Hitchcock
+115,A Separation,2011,8.3,2h 3m,Asghar Farhadi,Siavash Aghaiepour; Negar Eskandarfar; Asghar Farhadi
+116,Die Hard,1988,8.2,2h 12m,John McTiernan,Charles Gordon; Lawrence Gordon; Beau Marks; Joel Silver; Lloyd Levin
+117,To Kill a Mockingbird,1962,8.2,2h 9m,Robert Mulligan,Alan J. Pakula; Harper Lee; Robert Mulligan; Gregory Peck
+118,Indiana Jones and the Last Crusade,1989,8.2,2h 7m,Steven Spielberg,George Lucas; Frank Marshall; Arthur F. Repola; Robert Watts
+119,The Sting,1973,8.2,2h 9m,George Roy Hill,Tony Bill; Robert Crawford Jr.; Julia Phillips; Michael Phillips; David Brown; Sid Sheinberg; Richard D. Zanuck
+120,A Clockwork Orange,1971,8.2,2h 16m,Stanley Kubrick,Stanley Kubrick; Si Litvinoff; Max L. Raab; Bernard Williams
+121,Metropolis,1927,8.2,2h 33m,Fritz Lang,
+122,1917,2019,8.2,1h 59m,Sam Mendes,Valerii An; Jeb Brody; Nicolas Brown; Ricardo Marco Budé; B.J. Farmer; Pippa Harris; Michael Lerman; Callum McDougall; Sam Mendes; Caro Newling; Brian Oliver; Julie Pastor; Oleg Petrov; Ignacio Salazar-Simpson; John Hilary Shepherd; Angus Sutherland; Jayne-Ann Tenggren
+123,Snatch,2000,8.2,1h 42m,Guy Ritchie,Michael Dreyer; Stephen Marks; Peter Morton; Angad Paul; Sebastian Pearson; Taha Ali Reza; Trudie Styler; Steve Tisch; Matthew Vaughn
+124,L.A. Confidential,1997,8.2,2h 18m,Curtis Hanson,Curtis Hanson; Brian Helgeland; Dan Kolsrud; Arnon Milchan; Michael G. Nathanson; David L. Wolper
+125,The Wolf of Wall Street,2013,8.2,3h,Martin Scorsese,Riza Aziz; Richard Baratta; Marianne Bower; Leonardo DiCaprio; Danny Dimbort; Joel Gotler; Ted Griffin; Georgia Kacandes; Joey McFarland; Alexandra Milchan; Martin Scorsese; Adam Somner; Emma Tillinger Koskoff; Irwin Winkler; Rick Yorn
+126,Downfall,2004,8.2,2h 36m,Oliver Hirschbiegel,Wolf-Dietrich Brücker; Bernd Eichinger; Doris J. Heinze; Jörn Klamroth; Christine Rothe; Silvia Tollmann
+127,Dangal,2016,8.3,2h 41m,Nitesh Tiwari,Vishesh Agrawal; Nishith Dadhich; Siddharth Roy Kapur; Aamir Khan; Alan McAlex; Amrita Pandey; Kiran Rao; Srinivas Rao; Navmeet Singh
+128,The Truman Show,1998,8.2,1h 43m,Peter Weir,Edward S. Feldman; Andrew Niccol; Lynn Pleshette; Richard Luke Rothschild; Scott Rudin; Adam Schroeder
+129,Bicycle Thieves,1948,8.2,1h 29m,Vittorio De Sica,Giuseppe Amato; Vittorio De Sica
+130,Green Book,2018,8.2,2h 10m,Peter Farrelly,Jim Burke; Brian Hayes Currie; Steven Farneth; Peter Farrelly; Jonathan King; Kwame Parker; J.B. Rogers; Jeff Skoll; John Sloss; Octavia Spencer; Nick Vallelonga; Ted Virtue; Charles B. Wessler
+131,Oppenheimer,2023,8.2,3h,Christopher Nolan,Thomas Hayslip; Helen Medrano; Christopher Nolan; Charles Roven; Emma Thomas; Andy Thompson; J. David Wargo; James Woods
+132,Shutter Island,2010,8.2,2h 18m,Martin Scorsese,Chris Brigham; Bradley J. Fischer; Amy Herman; Laeta Kalogridis; Dennis Lehane; Mike Medavoy; Arnold Messer; Gianni Nunnari; Louis Phillips; Joseph P. Reidy; Martin Scorsese; Emma Tillinger Koskoff
+133,Judgment at Nuremberg,1961,8.3,2h 59m,Stanley Kramer,Stanley Kramer; Philip Langner
+134,Batman Begins,2005,8.2,2h 20m,Christopher Nolan,Larry Franco; Benjamin Melniker; Lorne Orleans; Charles Roven; Emma Thomas; Cheryl A. Tkach; Michael E. Uslan
+135,Hamilton,2020,8.3,2h 40m,Thomas Kail,Jill Furman; Sander Jacobs; Thomas Kail; Jon Kamen; Lin-Manuel Miranda; Nicole Pusateri; Chris Rouchard; Jeffrey Seller; Dave Sirulnick; Justin Wilkes
+136,For a Few Dollars More,1965,8.2,2h 12m,Sergio Leone,Arturo González; Alfredo Fraile; Alberto Grimaldi
+137,Taxi Driver,1976,8.2,1h 54m,Martin Scorsese,Phillip M. Goldfarb; Julia Phillips; Michael Phillips
+138,Jurassic Park,1993,8.2,2h 7m,Steven Spielberg,Kathleen Kennedy; Gerald R. Molen; Lata Ryan; Colin Wilson; Steven Spielberg
+139,Some Like It Hot,1959,8.2,2h 1m,Billy Wilder,I.A.L. Diamond; Doane Harrison; Billy Wilder
+140,There Will Be Blood,2007,8.2,2h 38m,Paul Thomas Anderson,Paul Thomas Anderson; Daniel Lupi; Scott Rudin; Eric Schlosser; JoAnne Sellar; David Williams
+141,The Kid,1921,8.2,1h 8m,Charles Chaplin,
+142,The Father,2020,8.2,1h 37m,Florian Zeller,Daniel Battsek; Philippe Carcassonne; Cleone Clarke; Lauren Dark; Alice Dawson; Simon Friend; Paul Grindey; Hugo Grumbar; Tim Haslam; Jean-Louis Livi; Ollie Madden; David Parfitt; Christophe Spadone; Beth Timbrell
+143,All About Eve,1950,8.2,2h 18m,Joseph L. Mankiewicz,
+144,The Sixth Sense,1999,8.2,1h 47m,M. Night Shyamalan,Kathleen Kennedy; Frank Marshall; Barry Mendel; Sam Mercer
+145,Ran,1985,8.2,2h 40m,Akira Kurosawa,Katsumi Furukawa; Masato Hara; Hisao Kurosawa; Serge Silberman
+146,Casino,1995,8.2,2h 58m,Martin Scorsese,Barbara De Fina; Alain Goldman; Joseph P. Reidy
+147,No Country for Old Men,2007,8.2,2h 2m,Ethan Coen; Joel Coen,Ethan Coen; Joel Coen; David Diliberto; Robert Graf; Mark Roybal; Scott Rudin
+148,The Thing,1982,8.2,1h 49m,John Carpenter,Stuart Cohen; David Foster; Larry Franco; Wilbur Stark; Lawrence Turman
+149,I Swear,"Releases Apr 24, 2026",8.4,2h,Kirk Jones,Georgia Bayliff; Lauren Cox; John Davidson; Cindy Jones; Kirk Jones; Graeme Mackenzie; Piers Tempest
+150,Prisoners,2013,8.2,2h 33m,Denis Villeneuve,Kira Davis; Broderick Johnson; Adam Kolbrenner; Andrew A. Kosove; Stephen Levinson; Edward L. McDonnell; Robyn Meisinger; John H. Starke; Mark Wahlberg; Steven P. Wegner
+151,Top Gun: Maverick,2022,8.2,2h 10m,Joseph Kosinski,Jerry Bruckheimer; John K. Campbell; Emily Cheung; Tom Cruise; David Ellison; Don Ferrarone; Dana Goldberg; Don Granger; Tommy Harper; Christopher McQuarrie; Chad Oman; Melissa Reid; Mike Stenson
+152,Kill Bill: Vol. 1,2003,8.2,1h 51m,Quentin Tarantino,Lawrence Bender; Mitsuhisa Ishikawa; Koko Maeda; Katsuji Morishita; Dede Nickerson; Kwame Parker; Erica Steinberg; E. Bennett Walsh; Bob Weinstein; Harvey Weinstein
+153,Pan's Labyrinth,2006,8.2,1h 58m,Guillermo del Toro,Víctor Albarrán; Belén Atienza; Álvaro Augustin; Alfonso Cuarón; Guillermo del Toro; David Ebner; Edmundo Gil; Elena Manrique; Bertha Navarro; Frida Torresblanco
+154,Unforgiven,1992,8.2,2h 10m,Clint Eastwood,Clint Eastwood; Julian Ludwig; David Valdes
+155,A Beautiful Mind,2001,8.2,2h 15m,Ron Howard,Brian Grazer; Todd Hallowell; Ron Howard; Karen Kehela Sherwood; Kathleen McGill; Maureen Peyrot; Aldric La'auli Porter; Louisa Velis
+156,The Treasure of the Sierra Madre,1948,8.2,2h 6m,John Huston,Henry Blanke; Jack L. Warner
+157,Howl's Moving Castle,2004,8.2,1h 59m,Hayao Miyazaki,Rick Dempsey; Tomohiko Ishii; John Lasseter; Ned Lott; Hayao Miyazaki; Toshio Suzuki
+158,Finding Nemo,2003,8.2,1h 40m,Andrew Stanton; Lee Unkrich,Jinko Gotoh; John Lasseter; Graham Walters
+159,Klaus,2019,8.2,1h 36m,Carlos Martínez López; Sergio Pablos,Mary Anderson; Sara Coca; Gustavo Ferrada; Warren Franklin; Mercedes Gamero; Jinko Gotoh; Mikel Lejarza; Sergio Pablos; Marisa Roman; Matthew Teevan
+160,Yojimbo,1961,8.2,1h 50m,Akira Kurosawa,Ryûzô Kikushima; Akira Kurosawa; Tomoyuki Tanaka
+161,The Great Escape,1963,8.2,2h 52m,John Sturges,John Sturges; James Clavell; Walter Mirisch
+162,The Elephant Man,1980,8.2,2h 4m,David Lynch,Stuart Cornfeld; Jonathan Sanger; Mel Brooks
+163,Monty Python and the Holy Grail,1975,8.2,1h 31m,Terry Gilliam; Terry Jones,Mark Forstater; John Goldstone; Michael White
+164,Dial M for Murder,1954,8.1,1h 45m,Alfred Hitchcock,
+165,The Best of Youth,2003,8.4,6h 14m,Marco Tullio Giordana,Angelo Barbagallo; Donatella Botti; Alessandro Calosci
+166,Demon Slayer: Kimetsu No Yaiba Infinity Castle,2025,8.4,2h 35m,Hikaru Kondô; Haruo Sotozaki,Akifumi Fujio; Masanori Miyake; Yûma Takahashi
+167,The Secret in Their Eyes,2009,8.2,2h 9m,Juan José Campanella,Daniela Alvarado; Mariela Besuievsky; Juan José Campanella; Gerardo Herrero; Guillermo Imsteyf; Axel Kuschevatzky; Federico Posternak; Vanessa Ragone
+168,Gone with the Wind,1939,8.2,3h 58m,Victor Fleming,
+169,Chinatown,1974,8.1,2h 10m,Roman Polanski,C.O. Erickson; Robert Evans
+170,"Lock, Stock and Two Smoking Barrels",1998,8.1,1h 47m,Guy Ritchie,Stephen Marks; Georgia Masters; Peter Morton; Angad Paul; Sebastian Pearson; Trudie Styler; Steve Tisch; Ronaldo Vasconcellos; Matthew Vaughn; Jan Roldanus; Jon Slan
+171,V for Vendetta,2005,8.1,2h 12m,James McTeigue,Jessica Alan; Grant Hill; Roberto Malerba; Henning Molfenter; Lorne Orleans; Joel Silver; Lana Wachowski; Lilly Wachowski; Ben Waisbren; Charlie Woebcken
+172,Catch Me If You Can,2002,8.1,2h 21m,Steven Spielberg,Barry Kemp; Daniel Lupi; Laurie MacDonald; Sergio Mimica-Gezzan; Devorah Moos-Hankin; Walter F. Parkes; Anthony Romano; Michel Shane; Steven Spielberg
+173,Inside Out,2015,8.1,1h 35m,Ronnie Del Carmen; Pete Docter,John Lasseter; Mark Nielsen; Jonas Rivera; Andrew Stanton
+174,Rashomon,1950,8.1,1h 28m,Akira Kurosawa,Minoru Jingo; Masaichi Nagata
+175,"Three Billboards Outside Ebbing, Missouri",2017,8.1,1h 55m,Martin McDonagh,Daniel Battsek; Graham Broadbent; Peter Czernin; Rose Garnett; Ben Knight; David Kosse; Martin McDonagh; Diarmuid McKeown; Bergen Swanson
+176,Trainspotting,1996,8.1,1h 33m,Danny Boyle,
+177,The Bridge on the River Kwai,1957,8.1,2h 41m,David Lean,
+178,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,2h 10m,David Yates,David Barron; Debbi Bossi; Roy Button; David Heyman; Tim Lewis; J.K. Rowling; John Trehy; Lionel Wigram
+179,Dead Poets Society,1989,8.1,2h 8m,Peter Weir,Steven Haft; Duncan Henderson; Paul Junger Witt; Tony Thomas
+180,The Wild Robot,2024,8.2,1h 42m,Chris Sanders,Dean DeBlois; Jeff Hermann; Heather Lanza
+181,Warrior,2011,8.1,2h 20m,Gavin O'Connor,Lisa Ellzey; Josh Fagin; Marshall Jamie; John J. Kelly; David Mimran; Gavin O'Connor; Greg O'Connor; Michael Paseornek; Jordan Schur; Anthony Tambakis
+182,Barry Lyndon,1975,8.1,3h 5m,Stanley Kubrick,Jan Harlan; Stanley Kubrick; Bernard Williams
+183,Fargo,1996,8.1,1h 38m,Joel Coen; Ethan Coen,Tim Bevan; John Cameron; Ethan Coen; Eric Fellner; Joel Coen
+184,Ben-Hur,1959,8.1,3h 32m,William Wyler,Sam Zimbalist; Sol C. Siegel; Joseph Vogel; William Wyler
+185,Raging Bull,1980,8.1,2h 9m,Martin Scorsese,Robert Chartoff; Hal W. Polaire; Peter Savage; Irwin Winkler
+186,Million Dollar Baby,2004,8.1,2h 12m,Clint Eastwood,Clint Eastwood; Paul Haggis; Robert Lorenz; Gary Lucchesi; Bobby Moresco; Tom Rosenberg; Albert S. Ruddy
+187,Mad Max: Fury Road,2015,8.1,2h,George Miller,Bruce Berman; Graham Burke; Christopher DeFaria; Genevieve Hofmeyr; George Miller; Doug Mitchell; Steven Mnuchin; Holly Radcliffe; Iain Smith; Courtenay Valenti; P.J. Voeten
+188,Children of Heaven,1997,8.2,1h 29m,Majid Majidi,Amir Esfandiari; Mohammad Esfandiari
+189,The Chaos Class Failed the Class,1975,8.4,1h 35m,Ertem Egilmez,
+190,Hacksaw Ridge,2016,8.1,2h 19m,Mel Gibson,Michael Bassick; Lawrence Bender; Terry Benedict; Len Blavatnik; Tina Xiuli Chen; Gregory Crosby; Paul Currie; Bruce Davey; Stuart Ford; Barbara Gibbs; David S. Greathouse; Eric Greenfeld; William D. Johnson; Lenny Kornberg; Joel Kramer; Steve Longi; Mark C. Manuel; Bill Mechanic; Zak Mechanic; Rick Nicita; Ted O'Neal; Brian Oliver; James H. Pang; Buddy Patrick; David Permut; Elexa Ruth; Jason Seagraves; Lauren Selig; Tyler Thompson; James M. Vernon; Gabe Videla; Suzanne Warren; Christopher Woodrow; Leo Shi Young; Helen Ye Zhong
+191,My Neighbor Totoro,1988,8.1,1h 26m,Hayao Miyazaki,Rick Dempsey; Tôru Hara; Ned Lott; Eiko Tanaka; Yasuyoshi Tokuma
+192,Gran Torino,2008,8.1,1h 56m,Clint Eastwood,Bruce Berman; Clint Eastwood; Bill Gerber; Jenette Kahn; Robert Lorenz; Tim Moore; Adam Richman
+193,Ratatouille,2007,8.1,1h 51m,Brad Bird; Jan Pinkava,John Lasseter; Bradford Lewis; Andrew Stanton; Galyn Susman
+194,12 Years a Slave,2013,8.1,2h 14m,Steve McQueen,Dede Gardner; Anthony Katagas; Jeremy Kleiner; Steve McQueen; Arnon Milchan; Brad Pitt; Bill Pohlad; John Ridley; Tessa Ross; Bianca Stigter
+195,The Grand Budapest Hotel,2014,8.1,1h 39m,Wes Anderson,Wes Anderson; Eli Bush; Molly Cooper; Jeremy Dawson; Christoph Fisser; Jane Frazer; Henning Molfenter; Octavia Peissel; Steven Rales; Scott Rudin; Charlie Woebcken
+196,Before Sunrise,1995,8.1,1h 41m,Richard Linklater,Gregory Jacobs; Wolfgang Ramml; Gernot Schaffler; John Sloss; Anne Walker-McBay; Ellen Winn Wendl
+197,Memories of Murder,2003,8.1,2h 11m,Bong Joon Ho,Choi Jae-won; Kang-bok Lee; Kim Moo-ryoung; Jong-yun No; Cha Seoung-jae
+198,Blade Runner,1982,8.1,1h 57m,Ridley Scott,Michael Deeley; Hampton Fancher; Brian Kelly; Ivor Powell; Paul Prischman; Jerry Perenchio; Ridley Scott; Run Run Shaw; Bud Yorkin
+199,How to Train Your Dragon,2010,8.1,1h 38m,Dean DeBlois; Chris Sanders,Bonnie Arnold; Kristine Belson; Suzanne Buirgy; Michael A. Connolly; Doug Davison; Karen Foster; Tim Johnson; Roy Lee; Bruce Seifert
+200,Spider-Man: No Way Home,2021,8.1,2h 28m,Jon Watts,Victoria Alonso; Avi Arad; Mitchell Bell; Chris Buongiorno; Louis D'Esposito; Kevin Feige; Emily Fong; Rachel O'Connor; Amy Pascal; JoAnn Perritano; Matt Tolmach; David H. Venghaus Jr.
+201,Gone Girl,2014,8.1,2h 29m,David Fincher,Ceán Chaffin; Jim Davidson; Leslie Dixon; Joshua Donen; Arnon Milchan; Bruna Papandrea; Reese Witherspoon
+202,"Monsters, Inc.",2001,8.1,1h 32m,Pete Docter; David Silverman; Lee Unkrich,Darla K. Anderson; Karen Dufilho; John Lasseter; Kori Rae; Andrew Stanton
+203,Jaws,1975,8.1,2h 4m,Steven Spielberg,David Brown; Richard D. Zanuck
+204,In the Name of the Father,1993,8.1,2h 13m,Jim Sheridan,Gabriel Byrne; Terry George; Nye Heron; Arthur Lappin; Jim Sheridan
+205,Ford v Ferrari,2019,8.1,2h 32m,James Mangold,John Bernard; Dani Bernfeld; Peter Chernin; Anthony Dixon; Aaron Downing; Lucas Foster; Kevin Halloran; James Mangold; Michael Mann; Adam Somner; Jenno Topping; Alex Young
+206,Wild Tales,2014,8.1,2h 2m,Damián Szifron,Agustín Almodóvar; Pedro Almodóvar; Leticia Cristi; Esther García; Axel Kuschevatzky; Matías Mosteirín; Hugo Sigman; Pola Zito
+207,The Gold Rush,1925,8.1,1h 35m,Charles Chaplin,
+208,Sherlock Jr.,1924,8.1,45m,Buster Keaton,Buster Keaton; Joseph M. Schenck
+209,Mary and Max,2009,8.1,1h 32m,Adam Elliot,Iain Canning; Melanie Coombs; Mark Gooder; Paul Hardart; Tom Hardart; Henry Karjalainen; Andrew Mackie; Bryce Menzies; Jonathan Page; Richard Payten; Pauline Piechota; Joni Rubin; Tom Wild
+210,The Deer Hunter,1978,8.1,3h 3m,Michael Cimino,Joann Carelli; Michael Cimino; Michael Deeley; John Peverall; Marion Rosenberg; Barry Spikings
+211,The Wages of Fear,1953,8.1,2h 36m,Henri-Georges Clouzot,Raymond Borderie; Henri-Georges Clouzot
+212,The General,1926,8.1,1h 18m,Clyde Bruckman; Buster Keaton,Buster Keaton; Joseph M. Schenck
+213,Logan,2017,8.1,2h 17m,James Mangold,Joseph M. Caracciolo Jr.; Simon Kinberg; Stan Lee; James Mangold; Josh McLaglen; Hutch Parker; Dana Robin; Lauren Shuler Donner; Kurt Williams
+214,Rocky,1976,8.1,2h,John G. Avildsen,Robert Chartoff; Gene Kirkwood; Irwin Winkler
+215,Mr. Smith Goes to Washington,1939,8.1,2h 9m,Frank Capra,
+216,Tokyo Story,1953,8.1,2h 17m,Yasujirô Ozu,
+217,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,2h 23m,Gore Verbinski,Jerry Bruckheimer; Paul Deason; Bruce Hendricks; Chad Oman; Pat Sandston; Mike Stenson
+218,On the Waterfront,1954,8.1,1h 48m,Elia Kazan,
+219,A Silent Voice: The Movie,2016,8.2,2h 10m,Naoko Yamada,Hideaki Hatta; Toshio Iizuka; Youhei Itou; Shin'ichi Nakamura; Nagaharu Ôhashi; Susumu Okinaka; Riri Senami; Ryûhei Takashima; Kensuke Tateishi; Mikio Uetsuki; Yoshifumi Yarimizu; Osamu Yoshiba
+220,Wild Strawberries,1957,8.1,1h 32m,Ingmar Bergman,
+221,Spotlight,2015,8.1,2h 9m,Tom McCarthy,Michael Bederman; Kate Churchill; Bard Dorros; Blye Pagon Faust; Steve Golin; Jonathan King; Peter Lawson; Xavier Marchand; David Mizner; Pierre Omidyar; Tom Ortenberg; Nicole Rocklin; Josh Singer; Jeff Skoll; Michael Sugar; Youtchi von Lintel
+222,La haine,1995,8.1,1h 38m,Mathieu Kassovitz,Adeline Lecallier; Alain Rocca; Christophe Rossignon; Gilles Sacuto
+223,The Terminator,1984,8.1,1h 47m,James Cameron,John Daly; Derek Gibson; Gale Anne Hurd; Thomas M. Hammel; Barry Plumley; James Sbardellati
+224,Maharaja,2024,8.3,2h 21m,R. Nandhakumar; Nithilan Saminathan; T. Suresh,A. Kumar; Kamal Nayan; Jagadish Palanisamy; Sudhan Sundaram
+225,Jai Bhim,2021,8.6,2h 44m,T.J. Gnanavel,Jyotika; Suriya
+226,The Sound of Music,1965,8.1,2h 54m,Robert Wise,Saul Chaplin; Robert Wise
+227,The Third Man,1949,8.1,1h 44m,Carol Reed,Hugh Perceval; Carol Reed; Alexander Korda; David O. Selznick
+228,The Big Lebowski,1998,8.1,1h 57m,Joel Coen; Ethan Coen,Tim Bevan; John Cameron; Ethan Coen; Eric Fellner; Joel Coen
+229,The Best Years of Our Lives,1946,8.1,2h 50m,William Wyler,Samuel Goldwyn; Lester Koenig
+230,The Seventh Seal,1957,8.1,1h 36m,Ingmar Bergman,
+231,Before Sunset,2004,8.1,1h 20m,Richard Linklater,Isabelle Coulet; John Sloss; Anne Walker-McBay
+232,Chainsaw Man - The Movie: Reze Arc,2025,8.3,1h 40m,Tatsuya Yoshihara,Akifumi Fujio; Hiroya Hasegawa; Norihiro Hayashida; Makoto Kimura; Yûsuke Nakai; Manabu Ôtsuka; Keisuke Seshita; Shûhei Yabuta
+233,Room,2015,8.1,1h 58m,Lenny Abrahamson,Jeff Arkuss; Emma Donoghue; Rose Garnett; Hartley Gorenstein; David Gross; Ed Guiney; David Kosse; Andrew Lowe; Keith Potter; Tessa Ross; Jesse Shapira; Chantelle Tabrizi
+234,Hotel Rwanda,2004,8.1,2h 1m,Terry George,Sam Bhembe; Roberto Cicutto; Izidore Codron; Sally French; Terry George; A. Kitman Ho; Martin Katz; Francesco Melzi d'Eril; Nick Meyer; Luigi Musini; Keir Pearson; Bridget Pickering; Duncan Reid; Hal Sadoff
+235,The Incredibles,2004,8.0,1h 55m,Brad Bird,John Lasseter; Kori Rae; Katherine Sarafian; John Walker
+236,Platoon,1986,8.1,2h,Oliver Stone,John Daly; Derek Gibson; A. Kitman Ho; Arnold Kopelson
+237,Hachi: A Dog's Tale,2009,8.1,1h 33m,Lasse Hallström,Jeff Abberley; Julia Blackman; Julie Chrystyn; Roxanna Farzaneh; Samuel H. Frankel; Richard Gere; Warren Goz; Bill Johnson; Paul A. Levin; Tom Luse; Paul Mason; Stewart McMichael; Dwight Opperman; Dean Schnider; Jim Seibel; Shin Torisawa; Michael Viner; Vicki Shigekuni Wong
+238,The Exorcist,1973,8.1,2h 2m,William Friedkin,William Peter Blatty; Noel Marshall; David Salven
+239,Rush,2013,8.1,2h 3m,Ron Howard,Tobin Armbrust; Tim Bevan; Ralph Brosche; Guy East; Andrew Eaton; Eric Fellner; Brian Grazer; Jim Hajicosta; Todd Hallowell; Daniel Hetzer; Ron Howard; Mark Mallouk; Peter Mallouk; Jens Meurer; Peter Morgan; Kay Niessen; Brian Oliver; Anita Overland; Gernot Schaffler; Nigel Sinclair; Tyler Thompson; Louisa Velis
+240,The Iron Giant,1999,8.1,1h 26m,Brad Bird,Allison Abbate; Des McAnuff; Pete Townshend; John Walker
+241,The Wizard of Oz,1939,8.1,1h 42m,Victor Fleming; George Cukor; Norman Taurog,Mervyn LeRoy; Al Lichtman; Arthur Freed
+242,Stand by Me,1986,8.1,1h 29m,Rob Reiner,Bruce A. Evans; Raynold Gideon; Andrew Scheinman
+243,The Passion of Joan of Arc,1928,8.1,1h 54m,Carl Theodor Dreyer,
+244,My Father and My Son,2005,8.2,1h 52m,Çagan Irmak,Sükrü Avsar; Esi Gülce; Gülay Mercan
+245,The Battle of Algiers,1966,8.1,2h 1m,Gillo Pontecorvo,Antonio Musu; Yacef Saadi; Fred Baker
+246,The Handmaiden,2016,8.1,2h 25m,Park Chan-wook,Park Chan-wook; Wonjo Jeong; Kim Jong-dae; Jay Lee; Miky Lee; Syd Lim; Jeong Tae-sung; Suk-chan Yoon
+247,Network,1976,8.1,2h 1m,Sidney Lumet,Fred C. Caruso; Howard Gottfried
+248,Drishyam,2015,8.2,2h 43m,Nishikant Kamat,Sanjay Agrawal; Gayatri Gulati; Sanjeev Joshi; Kanchan Marathe; Jaswinder Pabbla; Abhishek Pathak; Amita Pathak; Kumar Mangat Pathak; Neelam Pathak; Sarita Patil; Vignesh Shetty; Surjeet Singh
+249,Gangs of Wasseypur,2012,8.2,5h 21m,Anurag Kashyap,Apoorva Bakshi; Rakesh Bhagwani; Sunil Bohra; Prassanth Kumar Chandran; Jyoti Kapur Das; Maitreyee Dasgupta; Shivaji Dasgupta; Anurag Kashyap; Vikram Malhotra; Guneet Monga Kapoor; Ajay Rai; Meraj Shaikh; Adi Shankar; Shubh Shivdasani; Rukshana Tabassum
+250,The Grapes of Wrath,1940,8.1,2h 9m,John Ford,Nunnally Johnson; Darryl F. Zanuck
