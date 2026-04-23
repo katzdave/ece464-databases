@@ -8,9 +8,10 @@ The MVP phase is behind us, and it is time to bring your capstone projects acros
 ### **Final Deliverables**
 Please ensure all of the following are clearly linked in a central document and/or the root `README.md` of your final GitHub repository:
 
-* **GitHub Repository:** The complete source code, README, and full migration history.
+* **GitHub Repository:** The complete source code, README, and full migration/code history.
 * **Live Application Link:** A hosted, functional version of your app. This must be accessible via a public URL during final presentations and remain live until grades are finalized.
 * **Demo Video:** A ~3-minute walkthrough of your application's core functionality.
+* **Local Development Instructions** A readme file containing how to run your project locally.
 * **Final Write-up:** A formal document detailing your architecture, schema, and development journey.
 * **Final Presentation:** A 10-minute live presentation and Q&A session.
 
@@ -34,7 +35,7 @@ Create a clean document in your repository covering:
 
 1.  **Mission:** The problem your project solves.
 2.  **Schema:** Core tables and relationships (link to your schema definitions).
-3.  **Architecture:** High-level view of how your servers, clients, databases, and third-party integrations connect.
+3.  **Architecture:** High-level view of how your servers, clients, databases, and third-party integrations connect. How did you load your database's state, if you pulled in external data?
 4.  **Key Queries:** Highlight 2-3 interesting SQL/ORM queries and explain your indexing strategy for them.
 5.  **Complexity Component:** Deep dive into the most technically unique part of your solution.
 6.  **The Journey:** A retrospective on roadblocks, what was easier/harder than expected, and your experience with AI-assisted development.
